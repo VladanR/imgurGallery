@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Sample Imgur Gallery</string>
+    <string name="title_hot">Hot</string>
+    <string name="title_top">Top</string>
+    <string name="title_user">User</string>
+    <string name="title_show_viral">Show Viral</string>
+    <string name="app_version">Version</string>
+    <string name="author">Developed by: Vladan Randjelovic</string>
+    <string name="email">E-mail: vladan.randjelovic86@gmail.com</string>
+    <string name="development_time">Developed on: September 2018</string>
+    <string name="about">About App</string>
+    <string name="grid">Grid View</string>
+    <string name="button_list">List View</string>
+    <string name="staggered_grid">Staggered Grid View</string>
+    <string name="no_internet_connection_error">No internet connection.</string>
+    <string name="error_encountered">Error encountered: </string>
+    <string name="up_votes">Ups: </string>
+    <string name="down_votes">Downs: </string>
+    <string name="score">Score: </string>
+    <string-array name="sort_spinner_items">
+        <item>Sort</item>
+        <item>Viral</item>
+        <item>Top</item>
+        <item>Rising</item>
+        <item>Time</item>
+    </string-array>
+    <string-array name="window_spinner_items">
+        <item>Window</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+        <item>All</item>
+    </string-array>
+</resources>
